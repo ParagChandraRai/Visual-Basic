@@ -23,15 +23,9 @@ Text1.FontSize = 8
 End If
 End Sub
 
-Private Sub Command1_Click()
-End
-
-End Sub
-
 Private Sub Option1_Click()
 Text2.Text = "Male"
 Text2.FontBold = True
-
 End Sub
 
 Private Sub Option2_Click()
